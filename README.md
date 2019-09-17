@@ -1,3 +1,5 @@
+This project was based off of the youtuber Mosh's React.js crash course.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It allows the user to create a list of items that he/she wants to buy, and set the price of these items. As the user changed the set of items, the total price as well as the number of items updates.
 
 ## Available Scripts
